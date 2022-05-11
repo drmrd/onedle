@@ -1,4 +1,1 @@
-export const VALID_GUESSES = [
-    'a',
-    'i'
-]
+export const VALID_GUESSES = ['a', 'i']

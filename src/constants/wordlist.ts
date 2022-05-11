@@ -1,4 +1,1 @@
-export const WORDS = [
-    'a',
-    'i'
-]
+export const WORDS = ['a', 'i']
