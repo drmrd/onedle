@@ -47,7 +47,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       </p>
 
       <p className="mt-6 italic text-sm text-gray-500 dark:text-gray-300">
-        Onedle is the perfected form of Wordle based on
+        Onedle is the perfected form of Wordle based on &nbsp;
         <a href="https://github.com/cwackerfuss/react-wordle">
           Chase Wackerfuss's React clone
         </a>
